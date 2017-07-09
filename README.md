@@ -1,5 +1,5 @@
 # Software-Technologies
-The Software course provides the first steps in 4 technologies: Web development with PHP, Web development with JavaScript, Web development with C# , Web development with Java
+The Software course at the Software University provides the first steps in 4 technologies: Web development with PHP, Web development with JavaScript, Web development with C# , Web development with Java
 
 Part I. PHP & MySQL  
 
