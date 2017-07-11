@@ -5,10 +5,17 @@ Part I. PHP & MySQL
 
         -XAMPP, PHP7, MySQL, Doctrine, Symfony
         -Creating a blog with Symfony and MySQL
+        
+Part II.JavaScript & MongoDB
+
+        -ES6, Node.js, Express.js and MongoDB 
+        -Creating a blog with Express.js and MongoDB
+        
 Part III. Java Web Development
 
       - Java8, Hibernate and Spring MVC
       -Creating a blog with spring MVC and Hibernate
+      
 Part IV. C# Web Development
 
       - C#6, Entity Framework, ASP.NET MVC and SQL Server
